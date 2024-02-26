@@ -1,5 +1,5 @@
-#Documentacion
-###Script1
+# Documentacion
+### Script1
 Empieza estableciendo un arreglo para guardar una x cantidad de colores, que se usaran para que cada contenedor tenga color de fondo.
 ```
 const colores = ["red", "blue", "green", "brown", "purple", "yellow", "pink", "orange",];
