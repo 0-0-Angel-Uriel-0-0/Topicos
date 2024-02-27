@@ -1,4 +1,3 @@
-
 const colores = [
   "red",
   "blue",
